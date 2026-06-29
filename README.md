@@ -10,8 +10,8 @@ A Java chatbot that uses rule-based NLP to respond to user messages.
 
 ## How to Run
 
-*javac AIChatbot.java
-*java AIChatbot
+javac AIChatbot.java
+java AIChatbot
 
 
 ## Tech Used
